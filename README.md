@@ -15,3 +15,7 @@ Archive unused files safely for further examination.
 REST API endpoints for backend operations and frontend communication.
 Logging system to track cleaning history and user actions for analysis.
 Full-stack implementation with Flask (Python) backend and React frontend for a responsive user experience.
+
+TO DO:
+Containerise application using Docker
+Move on from localhost and deploy for public access
